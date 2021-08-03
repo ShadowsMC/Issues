@@ -22,7 +22,7 @@ body:
     attributes:
       label: Explain the bug.
       description: Please describe what you experienced.
-      placeholder: The Ender Slayer's Sword fails to death 45% more damage then a normal sword.
+      placeholder: The Ender Slayer's Sword fails to deal 45% more damage then a normal sword.
     validations:
       required: true
   - type: textarea
