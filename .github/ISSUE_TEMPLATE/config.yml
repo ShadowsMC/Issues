@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
+  - name: ShadowsMC Feedback
+    url: https://shadowsmc.net/feedback/
+    about: Want to provide feedback on a feature of something ShadowsMC related? Post a new thread here!
+  - name: ShadowsMC Suggestions
+    url: https://shadowsmc.net/suggest/
+    about: This repository is meant to track issues and bugs on ShadowsMC, if you wish to suggest a new feature or change to something please make a thread here!
   - name: ShadowsMC Customer Support
     url: https://support.shadowsmc.net/
     about: If you have an issue that involves personal or sensitive data, please open a report here.
