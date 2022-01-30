@@ -15,7 +15,7 @@ Provide steps on how one of the Developers or one of our Issue Moderators to rep
 
 ### 3. **Describe the success rate**
 
-Should you experience an issue we ask that you attempt to recreate the issue multiple times (a minimum of 3, a maximum of 10), having a higher success rate may move the issue up in terms of priority.
+Should you experience an issue we ask that you attempt to recreate the issue multiple times (a minimum of 3, a maximum of 10), having a higher success rate may move the issue up in terms of priority. If a developer or issue moderator is unable to replicate the issue you've encountered the issue will likely be "put on the back burner." 
 
 ## Moderators and Developers Descriptions
 
